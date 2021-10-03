@@ -25,7 +25,7 @@
 
 `ajv`
 
-```json
+```js
 const schema = {
   type: "object",
   properties: {
